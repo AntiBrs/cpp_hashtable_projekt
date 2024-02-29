@@ -1,0 +1,12 @@
+﻿  bool.cpp
+  feladat.cpp
+C:\Users\HP\Desktop\ELsoev\Data Struct\PROJEKT\PROJEKT\hash.h(32,2): warning C4091: 'extern ': ignored on left of 'hash_table' when no variable is declared
+  hash.cpp
+C:\Users\HP\Desktop\ELsoev\Data Struct\PROJEKT\PROJEKT\hash.h(32,2): warning C4091: 'extern ': ignored on left of 'hash_table' when no variable is declared
+C:\Users\HP\Desktop\ELsoev\Data Struct\PROJEKT\PROJEKT\hash.cpp(14,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  lista.cpp
+C:\Users\HP\Desktop\ELsoev\Data Struct\PROJEKT\PROJEKT\hash.h(32,2): warning C4091: 'extern ': ignored on left of 'hash_table' when no variable is declared
+  main.cpp
+C:\Users\HP\Desktop\ELsoev\Data Struct\PROJEKT\PROJEKT\hash.h(32,2): warning C4091: 'extern ': ignored on left of 'hash_table' when no variable is declared
+  Generating Code...
+  PROJEKT.vcxproj -> C:\Users\HP\Desktop\ELsoev\Data Struct\PROJEKT\x64\Debug\PROJEKT.exe
